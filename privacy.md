@@ -2,7 +2,7 @@ Privacy Policy
 
 Effective date: January 1, 2019
 
-CavemenMTB ("us", "we", or "our") operates the various online sites and mobile applications (the "Service").
+Prize Spinner ("us", "we", or "our") operates the various online sites and mobile applications (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
@@ -116,4 +116,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: admin@cavemenmtb.com
+By email: ppearson111@gmail.com
